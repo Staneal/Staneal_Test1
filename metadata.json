@@ -1,0 +1,6 @@
+{
+  "name": "طريق ألمانيا",
+  "description": "تطبيق تفاعلي بأسلوب لعبة تفاعلية يخطط لك طريق الهجرة والحصول على الجنسية الألمانية من الأردن بـ 0 دولار خطوة بخطوة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
